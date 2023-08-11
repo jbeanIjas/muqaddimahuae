@@ -122,7 +122,7 @@ a {
 
 .Cst-select-options {
     padding: 30px;
-    background: #97C6CA;
+    background: #8FBE9A;
     border-radius: 30px;
     position: absolute;
     left: -10%;
@@ -208,12 +208,12 @@ a {
 }
 
 .MidNav a:hover {
-    background-color: #97C6CA !important;
+    background-color: #8FBE9A !important;
     border-radius: 30px !important;
 }
 
 .StickHeader .MidNav a.CCLink {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
 }
 
 .StickHeader .HeaderNavL img {
@@ -244,7 +244,7 @@ a {
 }
 
 .MenuClick:hover {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
 }
 
 .SideNav {
@@ -296,7 +296,7 @@ a {
 }
 
 .NavBox a:hover {
-    color: #97C6CA;
+    color: #8FBE9A;
 }
 
 .NavBox {
@@ -426,7 +426,7 @@ a {
 }
 
 .hover-1:hover {
-    color: #97C6CA;
+    color: #8FBE9A;
 }
 
 .footerMain .SocialMedia {
@@ -472,7 +472,7 @@ a {
 }
 
 .FltBtns span {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     color: #fff;
     padding: 10px;
     border-radius: 30px;
@@ -808,7 +808,7 @@ a {
 }
 
 .hover-2:hover {
-    background-color: #97C6CA !important;
+    background-color: #8FBE9A !important;
 }
 
 .BIZ-step-Wrp img {
@@ -925,7 +925,7 @@ a {
 }
 
 .CostContent {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     padding-bottom: 60px;
 }
 
@@ -1273,7 +1273,7 @@ a {
 
 .Popup1 {
     padding: 30px;
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     position: fixed;
     bottom: -200%;
     left: 50%;
@@ -1374,7 +1374,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .Popup2 {
     padding: 30px;
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     position: fixed;
     bottom: -200%;
     left: 50%;
@@ -1562,7 +1562,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .ReviewLetter {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -1684,7 +1684,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .T111 {
     font-weight: 700;
-    color: #97C6CA;
+    color: #8FBE9A;
     margin-bottom: 20px;
     font-size: 20px;
     font-style: italic;
@@ -1808,7 +1808,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .BlogThumbsWrp .hover-1:hover,
 .BlogThumbsWrp .hover-1:hover .Blogt {
-    color: #97C6CA;
+    color: #8FBE9A;
 }
 
 .BlogThumbsWrp .Lnk1 {
@@ -1835,7 +1835,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .CT1 {
-    color: #97C6CA;
+    color: #8FBE9A;
     font-weight: 900;
     font-size: 30px;
     line-height: 1.1;
@@ -1844,7 +1844,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .OfficeTimeWrp {
     padding: 60px;
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
 }
 
 .OtT1 {
@@ -2211,7 +2211,7 @@ body::-webkit-scrollbar-thumb:hover {
     color: #fff;
 }
 .TermBlock:hover .TermBlockT3{
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
 }
 .TermasContentArea{
     font-style: italic;
@@ -2434,7 +2434,7 @@ left: 10px;
 .CCt1 {
     text-align: center;
     font-weight: 900;
-    color: #97C6CA;
+    color: #8FBE9A;
     font-size: 37px;
 }
 
@@ -2561,7 +2561,7 @@ left: 10px;
 }
 
 .NextBtn12 {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     color: #fff;
     font-weight: 900;
     font-size: 20px;
@@ -2616,11 +2616,11 @@ left: 10px;
 }
 
 input:checked+.slider {
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
 }
 
 input:focus+.slider {
-    box-shadow: 0 0 1px #97C6CA;
+    box-shadow: 0 0 1px #8FBE9A;
 }
 
 input:checked+.slider:before {
@@ -2730,7 +2730,7 @@ input:checked+.slider:before {
 
 }
 .Step3Btn{
-    background-color: #97C6CA;
+    background-color: #8FBE9A;
     color: #fff;
     font-weight: 900;
     font-size: 20px;
@@ -2812,14 +2812,14 @@ input:checked+.slider:before {
 width: auto;
     height: auto;
     border-radius: 0%;
-    background: #97C6CA;
+    background: #8FBE9A;
     color: #fff;
     min-width: 120px;
     padding: 3px;
     border-radius: 15px;
 }
 .PaginationWrp .page-numbers.current{
-	background: #97C6CA;
+	background: #8FBE9A;
 }
 .PaginationWrp .page-numbers.dots{
 	width:auto;
