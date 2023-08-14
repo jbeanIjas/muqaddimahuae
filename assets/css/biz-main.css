@@ -964,7 +964,7 @@ overflow: hidden;
 }
 
 .T22 {
-    font-size: 19px;
+    font-size: 18px;
     margin: 20px 0px;
 }
 
@@ -1053,7 +1053,7 @@ overflow: hidden;
 
 .T26 {
     color: #696969;
-    font-size: 23px;
+    font-size: 21px;
     line-height: 1.2;
 }
 
@@ -1484,7 +1484,7 @@ body::-webkit-scrollbar-thumb:hover {
 .T36 {
     font-weight: 500;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 15px;
 }
 
@@ -1871,11 +1871,11 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .OtHr1 {
-    padding: 20px;
+    padding: 18px;
     border-radius: 50px;
     background-color: #D59379;
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     display: flex;
     width: 100%;
