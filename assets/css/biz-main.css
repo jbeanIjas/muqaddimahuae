@@ -145,8 +145,8 @@ a {
     display: block;
     color: #fff;
     padding: 5px 5px;
-    font-size: 32px;
-    font-weight: 900;
+    font-size: 30px;
+    font-weight: 600;
     text-align: center;
     transition: 0.6s;
 }
@@ -336,7 +336,7 @@ a {
 }
 
 .T2 {
-    font-size: 60px;
+    font-size: 55px;
     color: #D59379;
     font-weight: 900;
     margin-bottom: 15px;
@@ -346,14 +346,14 @@ a {
 .T3 {
     font-weight: 500;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 15px;
 }
 
 .T4 {
     font-weight: 500;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .Styled-Border {
@@ -675,7 +675,7 @@ a {
 }
 
 .T10 {
-    font-size: 60px;
+    font-size: 55px;
     color: #D59379;
     font-weight: 900;
     line-height: 1;
@@ -705,7 +705,7 @@ a {
 .T11 {
     font-weight: 500;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 15px;
 }
 
@@ -1398,7 +1398,7 @@ body::-webkit-scrollbar-thumb:hover {
 .p2HeadText {
     font-weight: 900;
     font-size: 25px;
-    text-align: center;
+    text-align: left;
     color: #fff;
     padding-bottom: 10px;
     border-bottom: 2px solid #fff;
@@ -1407,8 +1407,8 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .p2mainContent {
-    text-align: center;
-    font-size: 18px;
+    text-align: justify;
+    font-size: 17px;
     color: #fff;
     font-style: italic;
     text-transform: capitalize;
