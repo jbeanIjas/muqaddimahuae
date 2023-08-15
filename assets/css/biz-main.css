@@ -122,7 +122,7 @@ a {
 
 .Cst-select-options {
     padding: 30px;
-    background: #8FBE9A;
+    background: #97C6CA;
     border-radius: 30px;
     position: absolute;
     left: -10%;
@@ -208,12 +208,12 @@ a {
 }
 
 .MidNav a:hover {
-    background-color: #8FBE9A !important;
+    background-color: #97C6CA !important;
     border-radius: 30px !important;
 }
 
 .StickHeader .MidNav a.CCLink {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
 }
 
 .StickHeader .HeaderNavL img {
@@ -244,7 +244,7 @@ a {
 }
 
 .MenuClick:hover {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
 }
 
 .SideNav {
@@ -296,7 +296,7 @@ a {
 }
 
 .NavBox a:hover {
-    color: #8FBE9A;
+    color: #97C6CA;
 }
 
 .NavBox {
@@ -426,7 +426,7 @@ a {
 }
 
 .hover-1:hover {
-    color: #8FBE9A;
+    color: #97C6CA;
 }
 
 .footerMain .SocialMedia {
@@ -472,7 +472,7 @@ a {
 }
 
 .FltBtns span {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     color: #fff;
     padding: 10px;
     border-radius: 30px;
@@ -808,7 +808,7 @@ a {
 }
 
 .hover-2:hover {
-    background-color: #8FBE9A !important;
+    background-color: #97C6CA !important;
 }
 
 .BIZ-step-Wrp img {
@@ -1277,7 +1277,7 @@ overflow: hidden;
 
 .Popup1 {
     padding: 30px;
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     position: fixed;
     bottom: -200%;
     left: 50%;
@@ -1378,7 +1378,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .Popup2 {
     padding: 30px;
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     position: fixed;
     bottom: -200%;
     left: 50%;
@@ -1566,7 +1566,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .ReviewLetter {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -1688,7 +1688,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .T111 {
     font-weight: 700;
-    color: #8FBE9A;
+    color: #97C6CA;
     margin-bottom: 20px;
     font-size: 20px;
     font-style: italic;
@@ -1812,7 +1812,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .BlogThumbsWrp .hover-1:hover,
 .BlogThumbsWrp .hover-1:hover .Blogt {
-    color: #8FBE9A;
+    color: #97C6CA;
 }
 
 .BlogThumbsWrp .Lnk1 {
@@ -1839,7 +1839,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .CT1 {
-    color: #8FBE9A;
+    color: #97C6CA;
     font-weight: 900;
     font-size: 30px;
     line-height: 1.1;
@@ -1848,7 +1848,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 .OfficeTimeWrp {
     padding: 60px;
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
 }
 
 .OtT1 {
@@ -2215,7 +2215,7 @@ body::-webkit-scrollbar-thumb:hover {
     color: #fff;
 }
 .TermBlock:hover .TermBlockT3{
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
 }
 .TermasContentArea{
     font-style: italic;
@@ -2438,7 +2438,7 @@ left: 10px;
 .CCt1 {
     text-align: center;
     font-weight: 900;
-    color: #8FBE9A;
+    color: #97C6CA;
     font-size: 37px;
 }
 
@@ -2565,7 +2565,7 @@ left: 10px;
 }
 
 .NextBtn12 {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     color: #fff;
     font-weight: 900;
     font-size: 20px;
@@ -2620,11 +2620,11 @@ left: 10px;
 }
 
 input:checked+.slider {
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
 }
 
 input:focus+.slider {
-    box-shadow: 0 0 1px #8FBE9A;
+    box-shadow: 0 0 1px #97C6CA;
 }
 
 input:checked+.slider:before {
@@ -2734,7 +2734,7 @@ input:checked+.slider:before {
 
 }
 .Step3Btn{
-    background-color: #8FBE9A;
+    background-color: #97C6CA;
     color: #fff;
     font-weight: 900;
     font-size: 20px;
@@ -2816,14 +2816,14 @@ input:checked+.slider:before {
 width: auto;
     height: auto;
     border-radius: 0%;
-    background: #8FBE9A;
+    background: #97C6CA;
     color: #fff;
     min-width: 120px;
     padding: 3px;
     border-radius: 15px;
 }
 .PaginationWrp .page-numbers.current{
-	background: #8FBE9A;
+	background: #97C6CA;
 }
 .PaginationWrp .page-numbers.dots{
 	width:auto;
