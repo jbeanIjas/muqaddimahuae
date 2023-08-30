@@ -1415,7 +1415,6 @@ body::-webkit-scrollbar-thumb:hover {
     font-size: 17px;
     color: #fff;
     font-style: italic;
-    text-transform: capitalize;
 }
 
 .GridStyle1Item {
