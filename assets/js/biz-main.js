@@ -157,7 +157,7 @@ jQuery(document).ready(function ($) {
     draggable: true,
     accessibility: false,
     centerMode: false,
-    slidesToShow: 4,
+    slidesToShow: 5,
     arrows: true,
     dots: true,
     swipeToSlide: true,
@@ -168,7 +168,7 @@ jQuery(document).ready(function ($) {
         settings: {
           centerMode: true,
           variableWidth: false,
-          slidesToShow: 1,
+          slidesToShow: 2,
           infinite: true,
           arrows: false,
         }
